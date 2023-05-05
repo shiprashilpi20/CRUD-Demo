@@ -1,0 +1,6 @@
+in\vaxa\cruddemo\dao\StudentRepository.class
+in\vaxa\cruddemo\controller\HomeController.class
+in\vaxa\cruddemo\model\Student.class
+in\vaxa\cruddemo\serviceimplementation\StudentServiceImpl.class
+in\vaxa\cruddemo\CrudDemoApplication.class
+in\vaxa\cruddemo\serviceinterface\StudentInterface.class
